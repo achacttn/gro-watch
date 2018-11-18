@@ -1,0 +1,31 @@
+{
+    "supermarkets": {
+        "supermarket_id": {
+            "catalog": {
+                "product_id": {
+                    "price": {}
+                }
+            },
+            "cycle": {
+                "cycle_id": {
+                    "product_id": {
+                        "price": {}
+                    }
+                }
+            }
+        }
+    },
+    "products": {
+        "product_id": {
+            "name": {},
+            "mass": {},
+            "retail": {}
+        }
+    },
+    "users": {
+        "user_id": {
+            "email": {},
+            "password": {}
+        }
+    }
+}
