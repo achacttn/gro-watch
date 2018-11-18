@@ -22,7 +22,7 @@ html, body {
 }
 
 #app {
-  text-align: center;
+  text-align: left;
   color: #2c3e50;
   border: 2px dotted red;
 }
@@ -32,6 +32,7 @@ html, body {
   a {
     font-weight: bold;
     color: #2c3e50;
+    margin: 0px 15px 0px 15px;
     &.router-link-exact-active {
       color: #42b983;
     }
